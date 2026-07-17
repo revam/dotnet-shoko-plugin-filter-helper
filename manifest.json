@@ -1,0 +1,17 @@
+{
+  "id": "a7f3c291-8b4e-4d6a-9c1d-2e5f7b8a0c3d",
+  "name": "Filter Helper",
+  "overview": "Lightweight filter endpoints for client-side filtering.",
+  "authors": "",
+  "repository_url": null,
+  "homepage_url": null,
+  "tags": [
+    "filter",
+    "api",
+    "groups",
+    "series"
+  ],
+  "image_url": null,
+  "releases": [
+  ]
+}
