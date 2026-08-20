@@ -3,7 +3,7 @@
   "name": "Filter Helper",
   "overview": "Lightweight filter endpoints for client-side filtering.",
   "authors": "",
-  "repository_url": null,
+  "repository_url": "https://github.com/revam/dotnet-shoko-plugin-filter-helper",
   "homepage_url": null,
   "tags": [
     "filter",
