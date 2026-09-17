@@ -1,33 +1,10 @@
 {
+  "$schema": "https://raw.githubusercontent.com/ShokoAnime/ShokoServer/master/Shoko.BuildTools/manifest.schema.json",
   "id": "a7f3c291-8b4e-4d6a-9c1d-2e5f7b8a0c3d",
+  "type": "package",
   "name": "Filter Helper",
-  "overview": "Lightweight filter endpoints for client-side filtering.",
+  "overview": "This is a stub manifest, not the published one. If you are reading it as a repository feed, you are on the wrong branch: the published identity and releases live on this repository's `metadata` branch, at `manifest.json`. CI pulls that file over this one before it builds anything. This copy exists so a local build has an id to match against.",
   "authors": "revam",
   "repository_url": "https://github.com/revam/dotnet-shoko-plugin-filter-helper",
-  "homepage_url": null,
-  "tags": [
-    "filter",
-    "api",
-    "groups",
-    "series"
-  ],
-  "image_url": null,
-  "releases": [
-    {
-      "version": "0.1.0",
-      "tag": "v0.1.0",
-      "source_revision": "2ceace37c72786bba76b488bf90d216ec6020e80",
-      "released_at": "2026-07-17T23:16:33Z",
-      "channel": "Stable",
-      "release_notes": null,
-      "archives": [
-        {
-          "runtime": "any",
-          "abstraction": "6.0.0",
-          "url": "https://github.com/revam/dotnet-shoko-plugin-filter-helper/releases/download/v0.1.0/Shoko.Plugin.FilterHelper-v0.1.0-any.zip",
-          "checksum": "0a6457c7768d176d1607e1b3b5dc56d852c0c595412f540b253d3138763aa446"
-        }
-      ]
-    }
-  ]
+  "releases": []
 }
