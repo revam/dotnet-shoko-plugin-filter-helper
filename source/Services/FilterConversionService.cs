@@ -16,8 +16,6 @@ namespace Shoko.Plugin.FilterHelper.Services;
 /// <see cref="SortingCriteria"/>, <see cref="CreateOrUpdateFilterBody"/>)
 /// and Shoko's internal filter abstractions (<see cref="FilterExpression{T}"/>,
 /// <see cref="SortingExpression"/>, <see cref="GenericFilter"/>).
-///
-/// Adapted from the StreamLined plugin.
 /// </summary>
 public sealed class FilterConversionService
 {
