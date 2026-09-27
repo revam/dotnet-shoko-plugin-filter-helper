@@ -287,7 +287,7 @@ public sealed class FilterController(
             .Where(r => includeEmpty || r.Group.AllSeries.Any(ser => ser.Videos.Count > 0))
             .Select(r => new FilteredGroupIDs
             {
-                GroupID = r.Group.ID,
+                GroupID = r.Group.LocalID,
                 GroupIDChains = r.GroupIDChains,
                 SeriesIDs = r.SeriesIDs,
             })
