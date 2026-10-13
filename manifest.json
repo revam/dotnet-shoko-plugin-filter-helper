@@ -11,9 +11,23 @@
     "groups",
     "series"
   ],
-  "thumbnail_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/thumbnail.svg",
-  "icon_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/icon.svg",
   "releases": [
+    {
+      "version": "1.0.6",
+      "tag": "v1.0.6",
+      "released_at": "2026-10-13T23:50:50.8883575Z",
+      "channel": "Stable",
+      "release_notes": "Added a thumbnail and an icon for the plugin. Nothing else changed.\n\nRequires Shoko Server with abstractions \u00606.0.0-alpha.104\u0060.",
+      "dependencies": [],
+      "archives": [
+        {
+          "runtime": "any",
+          "abstraction": "6.0.0",
+          "url": "https://github.com/revam/dotnet-shoko-plugin-filter-helper/releases/download/v1.0.6/FilterHelper-v1.0.6-any.zip",
+          "checksum": "sha256:ad7ce65fc404b2234b3182a5294b964f44a43fa12d8534d0e8014296bd9400a5"
+        }
+      ]
+    },
     {
       "version": "1.0.5",
       "tag": "v1.0.5",
@@ -109,5 +123,7 @@
         }
       ]
     }
-  ]
+  ],
+  "thumbnail_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/thumbnail.svg",
+  "icon_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/icon.svg"
 }
