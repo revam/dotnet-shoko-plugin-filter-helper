@@ -11,6 +11,8 @@
     "groups",
     "series"
   ],
+  "thumbnail_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/thumbnail.svg",
+  "icon_url": "https://raw.githubusercontent.com/revam/dotnet-shoko-plugin-filter-helper/stable/source/Assets/icon.svg",
   "releases": [
     {
       "version": "1.0.5",
