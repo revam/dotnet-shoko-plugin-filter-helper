@@ -13,6 +13,22 @@
   ],
   "releases": [
     {
+      "version": "1.0.8",
+      "tag": "v1.0.8",
+      "released_at": "2026-10-16T07:17:59.322612Z",
+      "channel": "Stable",
+      "release_notes": "Rebuilt against the abstractions \u00606.0.0-alpha.108\u0060 release.\n\nRequires Shoko Server with abstractions \u00606.0.0-alpha.108\u0060.",
+      "dependencies": [],
+      "archives": [
+        {
+          "runtime": "any",
+          "abstraction": "6.0.0",
+          "url": "https://github.com/revam/dotnet-shoko-plugin-filter-helper/releases/download/v1.0.8/FilterHelper-v1.0.8-any.zip",
+          "checksum": "sha256:cd7cf6e7d4f7271829934595e0b46f866139fbbe7e3f375802c284fb50cd2eb2"
+        }
+      ]
+    },
+    {
       "version": "1.0.7",
       "tag": "v1.0.7",
       "released_at": "2026-10-15T09:39:31.5311421Z",
